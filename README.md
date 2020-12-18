@@ -1,6 +1,8 @@
 # Honigverkaufsautomat
 Honigverkaufsautomat Heltec wifikit
 
+<strong>ACHTUNG NOCH IN ENTWICKLUNG</strong>
+
 
 Benötigte Bauteile:
 
@@ -20,3 +22,8 @@ Benötigte Bauteile:
 5V Spannungswandler versorgt Relais sowie den Heltec über den Heltec reicht der Strom nicht für 8 Relais.
 2 x 4-Relais aus Platzgründen
 Doppelseitige Platinen wenn man sich hier Brücken baut kann man auf der einen Seite den Heltec Stecken, hat eine Befestigung an der Türe und auf der Rückseite Zeitgleich Steckkontakte für die Verdrahtung
+
+
+An die Kontakte zum noch Freien Relais geht es an die Türöffner.
+Die Freien Kontakte auf der Platine gehen an die Türöffner als Lese Kontakte.
+
